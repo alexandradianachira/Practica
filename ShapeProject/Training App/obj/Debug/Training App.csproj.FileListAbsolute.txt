@@ -1,0 +1,14 @@
+c:\users\diana\documents\visual studio 2015\Projects\Training App\Training App\bin\Debug\Training App.exe.config
+c:\users\diana\documents\visual studio 2015\Projects\Training App\Training App\obj\Debug\Training App.csprojResolveAssemblyReference.cache
+D:\Practica Pentalog\Training App\Training App\bin\Debug\Training App.exe.config
+D:\Practica Pentalog\Training App\Training App\obj\Debug\Training App.csprojResolveAssemblyReference.cache
+D:\Practica Pentalog\Training App\Training App\bin\Debug\Training App.exe
+D:\Practica Pentalog\Training App\Training App\bin\Debug\Training App.pdb
+D:\Practica Pentalog\Training App\Training App\obj\Debug\Training App.exe
+D:\Practica Pentalog\Training App\Training App\obj\Debug\Training App.pdb
+D:\Newfolder\Practica Pentalog\Training App\Training App\bin\Debug\Training App.exe.config
+D:\Newfolder\Practica Pentalog\Training App\Training App\bin\Debug\Training App.exe
+D:\Newfolder\Practica Pentalog\Training App\Training App\bin\Debug\Training App.pdb
+D:\Newfolder\Practica Pentalog\Training App\Training App\obj\Debug\Training App.csprojResolveAssemblyReference.cache
+D:\Newfolder\Practica Pentalog\Training App\Training App\obj\Debug\Training App.exe
+D:\Newfolder\Practica Pentalog\Training App\Training App\obj\Debug\Training App.pdb
