@@ -1,0 +1,2 @@
+D:\Newfolder\Practica Pentalog\DbProject\EntityFrameworkSalesDatabase\EntityFrameworkSalesDatabase\bin\Debug\EntityFrameworkSalesDatabase.exe.config
+D:\Newfolder\Practica Pentalog\SalesProject\EntityFrameworkSalesDatabase\EntityFrameworkSalesDatabase\bin\Debug\EntityFrameworkSalesDatabase.exe.config
