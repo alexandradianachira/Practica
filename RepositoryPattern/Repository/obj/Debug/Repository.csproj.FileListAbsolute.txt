@@ -1,0 +1,14 @@
+D:\Newfolder\Practica Pentalog\RepositoryPattern\Repository\bin\Debug\Repository.dll.config
+D:\Newfolder\Practica Pentalog\RepositoryPattern\Repository\bin\Debug\Repository.dll
+D:\Newfolder\Practica Pentalog\RepositoryPattern\Repository\bin\Debug\Repository.pdb
+D:\Newfolder\Practica Pentalog\RepositoryPattern\Repository\bin\Debug\EntityFramework.dll
+D:\Newfolder\Practica Pentalog\RepositoryPattern\Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Newfolder\Practica Pentalog\RepositoryPattern\Repository\bin\Debug\EntityFramework.xml
+D:\Newfolder\Practica Pentalog\RepositoryPattern\Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Newfolder\Practica Pentalog\RepositoryPattern\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\Newfolder\Practica Pentalog\RepositoryPattern\Repository\obj\Debug\Repository.dll
+D:\Newfolder\Practica Pentalog\RepositoryPattern\Repository\obj\Debug\Repository.pdb
+D:\Newfolder\Practica Pentalog\RepositoryPattern\Repository\obj\Debug\Repository.Migrations.Addanimalentity.resources
+D:\Newfolder\Practica Pentalog\RepositoryPattern\Repository\obj\Debug\Repository.csproj.GenerateResource.Cache
+D:\Newfolder\Practica Pentalog\RepositoryPattern\Repository\obj\Debug\Repository.Migrations.AddnameinAnimalEntity.resources
+D:\Newfolder\Practica Pentalog\RepositoryPattern\Repository\obj\Debug\Repository.Migrations.addname.resources

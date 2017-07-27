@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e932fa4768364b61a0d589dc1ce177f9" Name="Diagram1">
+        <EntityTypeShape EntityType="CarsDealerShipModel.Car" Width="1.5" PointX="6.75" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CarsDealerShipModel.Order" Width="1.5" PointX="3" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="CarsDealerShipModel.Person" Width="1.5" PointX="0.75" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="CarsDealerShipModel.Producer" Width="1.5" PointX="3.125" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="CarsDealerShipModel.Seller" Width="1.5" PointX="0.5" PointY="5" IsExpanded="true" />
+        <AssociationConnector Association="CarsDealerShipModel.FK_Orders_ToCar" ManuallyRouted="false" />
+        <AssociationConnector Association="CarsDealerShipModel.FK_Producer_ToCars" ManuallyRouted="false" />
+        <AssociationConnector Association="CarsDealerShipModel.FK_Orders_ToPerson" ManuallyRouted="false" />
+        <AssociationConnector Association="CarsDealerShipModel.FK_Seller_ToPerson" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
